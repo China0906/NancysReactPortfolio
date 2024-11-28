@@ -1,6 +1,6 @@
 import React from "react";
 import { BrowserRouter as Router, Route, Switch } from "react-router-dom";
-import Header from "c:/Users/nramo/onedrive/desktop/NancysReactPortfolio/src/components/Header";
+import header from "c:/Users/nramo/onedrive/desktop/NancysReactPortfolio/src/components/header";
 import Footer from "c:/Users/nramo/onedrive/desktop/NancysReactPortfolio/src/components/Footer";
 import AboutMe from "c:/Users/nramo/onedrive/desktop/NancysReactPortfolio/src/pages/AboutMe";
 import Portfolio from "c:/Users/nramo/onedrive/desktop/NancysReactPortfolio/src/pages/Portfolio";
