@@ -1,5 +1,5 @@
 import React from "react";
-import Project from "c:/Users/nramo/onedrive/desktop/NancysReactPortfolio/src/components/Project";
+import Project from "../components/Project";
 
 function Portfolio() {
   const projects = [
