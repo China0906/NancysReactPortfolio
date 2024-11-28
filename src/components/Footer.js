@@ -2,6 +2,7 @@ import React from "react";
 
 function Footer() {
   return (
+    
     <footer>
       <a href="https://github.com/China0906">GitHub</a>
       <a href="https://linkedin.com/in/developer">LinkedIn</a>
