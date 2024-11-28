@@ -63,7 +63,7 @@ Contact Form
 Replace path-to-about-me-screenshot.jpg etc. with the paths to your screenshots.
 
 ##### Deployed Application
-The portfolio is live and can be accessed here: https://your-netlify-deployment-url.netlify.app
+The portfolio is live and can be accessed here: https://nancysfolio.netlify.app/
 
 ##### License
 This project is licensed under the MIT License. See the LICENSE file for details.
