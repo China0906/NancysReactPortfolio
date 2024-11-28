@@ -5,7 +5,7 @@ function AboutMe() {
     <section>
       <h2>About Me</h2>
       <img
-        src="C:\Users\nramo\Downloads\IMG_0339.JPG" // Replace with the actual path or URL of your photo
+        src="C:\Users\nramo\onedrive\desktop\NancysReactPortfolio\src\assets\IMG_0339.JPG" // Replace with the actual path or URL of your photo
         alt="Developer"
         style={{ width: "150px", borderRadius: "50%" }}
       />

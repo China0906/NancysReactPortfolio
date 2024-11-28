@@ -16,7 +16,7 @@ function Resume() {
     <section>
       <h2>Resume</h2>
       <a
-        href="path-to-your-resume.pdf" // Replace with the actual path to your resume
+        href="C:\Users\nramo\onedrive\desktop\NancysReactPortfolio\src\assets\Nancy-Ramon.pdf" // Replace with the actual path to your resume
         download
       >
         Download My Resume
